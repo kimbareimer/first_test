@@ -1,6 +1,6 @@
 # first_test
 
-## just for first steps wirh githup
+## just for first steps with githup
 
 for training purpose
 
